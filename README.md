@@ -1,0 +1,1 @@
+Tried out a basic credit card fraudulent transaction detection dataset, by builiding a beginner level Machine learning model with skl learn which exhibited a accuracy of 97.77 at the end of the testing.
